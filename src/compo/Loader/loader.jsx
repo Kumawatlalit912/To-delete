@@ -6,7 +6,7 @@ const Loader = () => {
         <div className="insidemain">
             
         </div>
-        <h3>I am Sleeping , Search Something</h3>
+        <h1>I am Sleeping , Search Something</h1>
     </div>
   )
 }
