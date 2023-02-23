@@ -5,7 +5,7 @@ const NoData = () => {
   return (
     <div style={{display:'flex',justifyContent:'center',alignItems:'center',flexDirection:'column'}}>
 
-        <img src={nodata} alt="random" />
+        <img src={nodata} alt="random" style={{border:'2px solid white'}}/>
         <h1>🧐 🧐 🧐 🧐 🧐 🧐 🧐</h1>
         <h1>No Data Found!!</h1>
 
