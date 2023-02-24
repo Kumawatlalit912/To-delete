@@ -46,7 +46,7 @@ const Testing = () => {
         console.log(e._id);
         setId(e._id);
         setForBeg(!forbag);
-        s.target.style.backgroundColor=forbag?"aquamarine":"red";
+        s.target.style.backgroundColor=forbag?"aquamarine":"rgb(216, 135, 29)";
         
     }
   return (
